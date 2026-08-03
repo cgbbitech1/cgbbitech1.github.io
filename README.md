@@ -1,1 +1,2 @@
-pokemon types
+pokemon pladea map
+
